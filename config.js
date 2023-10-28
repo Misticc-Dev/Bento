@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Cloudflare',
+					link: 'https://www.cloudflare.com',
 				},
 				{
 					name: 'Replit',
